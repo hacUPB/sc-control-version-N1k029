@@ -4,3 +4,4 @@
 - Finalmente pude añadir un commit, quiero llorar
 - Coloqué el comprobador de que el número sea mayor que 0
 - Se añadieron los bloques faltantes del código
+- Se añadió una nueva estrucutra para el código
